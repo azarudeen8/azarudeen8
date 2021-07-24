@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming besed 
 - 📫 How to reach me ...
+- and i am looking for first job 
 
 <!---
 azarudeen8/azarudeen8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
