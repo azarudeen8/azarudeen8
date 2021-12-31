@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming besed 
-- 📫 How to reach me ...
+- 📫 try to get the job ,like a data analysis and mechine learning
 - and i am looking for first job 
 
 <!---
