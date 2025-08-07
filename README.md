@@ -6,7 +6,7 @@
 
 ---
 
-currently I am looking for opportunity Java in selenium and spring boot developer 
+🚀 Currently seeking opportunities as a Java + Selenium + Spring Boot Developer
 
 ---
 
