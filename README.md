@@ -3,6 +3,7 @@
 👋 Hi, I'm Azar
 
 🎯 I'm a Java Developer with a strong foundation in Spring Boot and experience in automation testing. I specialize in building scalable frameworks, solving complex code challenges, and exploring data-driven development.
+---
 
 currently I am looking for opportunity Java in selenium and spring boot developer 
 
