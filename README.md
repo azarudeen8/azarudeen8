@@ -57,7 +57,7 @@
 
 📬 Let's Connect
 
-- 💼 LinkedIn
+- 💼 LinkedIn: https://www.linkedin.com/in/azarudeen8
 - 📧 Email: aazar3766@gmail.com
 - 🌐 Portfolio: Coming Soon!
 
