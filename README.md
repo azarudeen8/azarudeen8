@@ -64,8 +64,6 @@
 
 ---
 
-> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
-
 Thanks for visiting! 👨‍💻
 
 ☎️ If you need anything regarding above subject, please free to ask 
