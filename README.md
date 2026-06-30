@@ -27,6 +27,7 @@
 | Java                   | ⭐⭐⭐⭐ |
 | Spring Boot            | ⭐⭐⭐⭐ |
 | SQL                    | ⭐⭐⭐⭐ |
+| MongoDB / DataDriven   | ⭐⭐⭐ |
 | Selenium WebDriver     | ⭐⭐⭐ |
 | Oracle / MySQL         | ⭐⭐⭐ |
 | Accuterm / Unidata     | ⭐⭐⭐ |
